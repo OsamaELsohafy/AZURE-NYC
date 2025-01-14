@@ -1,4 +1,6 @@
 # Azure Data Engineering End-to-End Project
+![Project Overview](https://github.com/OsamaELsohafy/AZURE-NYC/blob/main/NYC-Project.png)
+
 This project is an end-to-end Azure Data Engineering implementation, covering the use of cutting-edge technologies like Azure Data Factory, Databricks, PySpark, and Delta Lake. The project focuses on building a robust data pipeline using real-world data, showcasing best practices, and providing detailed tutorials to enhance your data engineering skills.
 
 ## Project Overview
